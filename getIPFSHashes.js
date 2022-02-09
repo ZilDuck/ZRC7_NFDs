@@ -20,6 +20,7 @@ fs.readdir(ducksDirectory, async function(err, files) {
         let numberStr = path.parse(file).name;
         ducksToUpload.push(numberStr)
     })
+    console.log(ducksToUpload)
     getAllPinned()
 })
 
@@ -41,8 +42,8 @@ const getPinned = async (id) => {
 
     await pinata.pinList(filters).then(async (result) => {
         result['rows'].forEach(x => {
-            console.log(id + " " +"https://cloudflare-ipfs.com/ipfs/" + x.ipfs_pin_hash)
-            results.push({"id": id, "hash": "https://cloudflare-ipfs.com/ipfs/" + x.ipfs_pin_hash})
+            console.log(id + " " +"ipfs://" + x.ipfs_pin_hash)
+            results.push({"id": id, "hash": "ipfs://" + x.ipfs_pin_hash})
         })
     }).catch(async (err) => {
         console.log('err')
@@ -57,16 +58,17 @@ const sleep = async (ms) => {
 }
 
 const getAllPinned = async () => {
-    console.log(ducksToUpload.length)
-    for (let i in ducksToUpload) { 
+
+    for (let i = 1216; i <= 2045; i++) { 
         await sleep(750)
-        await getPinned(ducksToUpload[i])
+        console.log("REGEN_" + String(i).padStart(4, "0"))
+        await getPinned("REGEN_" + String(i).padStart(4, "0"))
         
     }
 
     const data = JSON.stringify(results, null, 4);
 
-    fs.writeFile('newimagehashes.json', data, (err) => {
+    fs.writeFile('newregenhashes2.json', data, (err) => {
         if (err) {
         throw err;
         }

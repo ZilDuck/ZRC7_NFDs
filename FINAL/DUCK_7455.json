@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmQije3mPnkk3wXswP3JVEQXmveH3A4KrTCg6TarH1TWzE",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Eider"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Censorbar"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Spiked Choker"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "1.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmZbzSXHxf9k83kHSWqxWTfdBuu2FmQtfQPHTvywoqApuP",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_7455_b2999b64c9934d66.png"
+}

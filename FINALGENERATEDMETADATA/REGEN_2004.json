@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmYYYtESfRnppsKfk27BRaSrdBQLKFqb9YudmWvXZawFGq",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Rubber Ducky"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Cracked Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Yellow Hardhat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Cape"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "1.33%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.67%"
+    }
+  ],
+  "transparent": "ipfs://QmcpESLC1pE4iHiTtHPMFdMDSQVVzJ3z4T3XhQYSzfT13p",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_2004_e158939d66639995.png"
+}

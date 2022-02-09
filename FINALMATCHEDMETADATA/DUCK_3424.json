@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmQCagvXKMsebrmtVp4PL8nUfPCHDizGGJxuMwr5t5aXeU",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Mandarin"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Braces Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Angry Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bun"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Floatie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://Qmb1YRPCeT7HeC4FPzGk3byR1hU5hjyt7rrjidsXj9gTDQ",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1152_e33296ccc699cd13.png"
+}

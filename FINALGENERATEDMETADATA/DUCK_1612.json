@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmNsKYMqcrEot8pnfXeb5rzZ6YMNsbuhBzD7SF3m465uKv",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Merganser"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Dumb Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Gold Chain"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.25%"
+    }
+  ],
+  "transparent": "ipfs://QmRpHH6v8RhbtPk88nuqin7GZKbyETnnqkJ9doCMc2hST6",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_1612_b13386cdc3934c6e.png"
+}

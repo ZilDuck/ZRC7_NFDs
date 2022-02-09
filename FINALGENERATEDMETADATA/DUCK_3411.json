@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmPWQ6K9GqKxLfDLKqLneh34Nh6tLtXTuYVJLtkiqdQQk1",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Goldeneye"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Cracked Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Hypnotized Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bun"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmZSNstHdm9kkHmmW5EuGGotEW323L98xFRfHfHhYKSDEd",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3411_b33186cdcc96cc4e.png"
+}

@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmRas9kRChW3gn41RE6dV6wf2e8hehuTJ6xkvReQCDt2U7",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Rubber Ducky"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Bulging Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bun"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "DCDC Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "1.33%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://Qmcd5ykJ7muPUjiZ1o1wSohHp5uZe3uoDXDUgqusbyPHL6",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1498_b38ece3133cd9930.png"
+}

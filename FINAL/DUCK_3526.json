@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmeMrHfvFpGpueksQoCzhzR8Bisp9q6kPzZzTzjL5L2Zve",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bandana"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Pepe Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmYpv4kCCmpzkRqRy1qzqmcw2NXk4snW12DCnkRBJ9qYFp",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1576_b199964ccc966d2e.png"
+}

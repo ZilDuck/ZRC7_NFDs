@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmaaxQRaLA1N5Uo3WikNeeo7VzEpAH2u6Ej4cNXDcvb821",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Eider"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Groucho"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bucket Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Tie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmQUyRVqpr1EimGq7PszDvPxCPFbKfVBc23CZpoLWG9iN4",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3920_b199866cc8936dce.png"
+}

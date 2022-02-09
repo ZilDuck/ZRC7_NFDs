@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmfDEfpcNX8GAByxwzFb9bfAsSnGTQAu4hEvXcn4UR4ZiC",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Goldeneye"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Drooling Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Scuba Mask"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Brain"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Striped Hoodie Red"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmXF6tzs5ZPwY9cvzrYot4vcZV8qhsVFkminrVaE9NaSku",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1222_b298cd61e4c6d939.png"
+}

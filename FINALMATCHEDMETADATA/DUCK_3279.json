@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmcJFtYVjKHi6ioEVgkUNgHngpzJfskDNMWnpCy9SXThSG",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Pochard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Cigarette Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Yellow Hardhat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Gold Chain"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.25%"
+    }
+  ],
+  "transparent": "ipfs://QmU3XzQc2PW5okfFWC5RXHSnGGdbvHf2RvEz3EYsecdsnM",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1050_b193c6c8c6c6c92f.png"
+}

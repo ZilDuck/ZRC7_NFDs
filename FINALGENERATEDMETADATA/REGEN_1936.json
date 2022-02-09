@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmP6iV2XHBpgPjvDbr2SjExp3UJ8DPVW3jBqGRcpdCFTcJ",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Eider"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Cracked Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Headphones"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Gradient Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmSnApBWzJUNSxEutJbusGaWzxXq3CKoSz27fhXs9aqKiL",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1936_b3999264d9c6cc39.png"
+}

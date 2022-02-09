@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmQ8WTMHZEUAj7LBVZZjbda7eQ4TBFepem4KocYejsGCb9",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Smug Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Headphones"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Yellow Hoodie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmUik7sFGYpuWF94pFKubtsFWKmbXQa7qrpoKpwf9hydau",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1521_b19996cdccb6cc0c.png"
+}

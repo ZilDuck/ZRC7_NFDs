@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmPPpxen3rBtE1zTGjiy1ofh4Ucepc8NG5Sh4r7A3CPvyu",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Rubber Ducky"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Dumb Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Sombrero"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Spiked Choker"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "3.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "10.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmY7jxjypkjrvEzBEBsDAgtLg47ZvtUonJuSE1SNqZy7vG",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3563_b199c6ccccc6cc2e.png"
+}

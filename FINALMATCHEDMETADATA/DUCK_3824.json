@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmPRc8r9VNWDzK7jrtKD2kWnZSARpojacKtULCxbJ5aed7",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Goldeneye"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Angry Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Hot Dog"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "1.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmdhMJwHdjkhv8kcua14mp8aaKG2BJ1TqbLrV3RxDnRH4R",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3823_b39c9261cc9f694c.png"
+}

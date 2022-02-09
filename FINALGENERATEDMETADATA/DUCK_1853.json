@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmZtdH2iL1e3xh6g32zzGxuZAiYEk8QkSAqdZPaQndC7Ja",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Merganser"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Cracked Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Tired Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bun"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Frankenstein Bolts"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmdcDNxHH5zQm7apqgx6k83uHoMdmhv3RNa6ZTq1EFJpFv",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_1853_bb3222c9cc339ecc.png"
+}

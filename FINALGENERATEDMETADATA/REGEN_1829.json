@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmdHQb5UpZRVzpDmZafPp9Ypk7gSjAMHoPzjhmuiLXLbez",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Red"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Cyclops"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Headphones"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Hawaiian Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmQcQzgyQkPwwnPR4doB6S2yjGx5XwxaGveUKbEk6Dc8en",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1829_b133a6cccce709cc.png"
+}

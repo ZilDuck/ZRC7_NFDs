@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmWArRG5evaRytiMKZj474APkGhPXJCSpJqomj4tSC8biB",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Eider"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Top Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Yellow Hoodie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmbSh7Q3j3d8uaKjfBVcoQMykjSHvu2QZkhuf1YMati5eK",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1753_e626326d99a6cc99.png"
+}

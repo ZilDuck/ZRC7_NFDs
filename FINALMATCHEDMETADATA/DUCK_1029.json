@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmQhkQeXVuLXDHqLH6Nyd63j2ujeC3aPeo9KgSshNGkp3V",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Mandarin"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Tongue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Surprised Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Cowboy Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Yellow Hoodie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmSCqCnDtKLnDmUEoZ3bNwhXSUH3vHmFbKUSU3Njw92TQa",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1400_b23292cdc9c6ccce.png"
+}

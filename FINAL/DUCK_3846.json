@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmWomhTrm94wjnreGP5sR8id188JXuojEjVtT3nrhkBoA6",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Rubber Ducky"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Sombrero"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Black Deezys"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "3.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "10.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.67%"
+    }
+  ],
+  "transparent": "ipfs://QmZ7zLaqTNVmxrLUKY7hakFgYxgYzfqz3gnjU3ArR8xFMo",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1608_b29c32cd67c6cc64.png"
+}

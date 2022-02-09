@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmVxLHGMj3pTFbGGfANVH4f5aKGMTXrCnCtEs8sNNkgDjr",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Pochard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Hypnotized Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Yellow Hardhat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "DF1 White"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmastF6AJ6gvkZ7tHF6tos3wqVrRDnMHxtGVct4Zd79L3D",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1059_b199c6cdc687c92c.png"
+}

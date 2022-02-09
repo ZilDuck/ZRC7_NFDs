@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmRn6vnLNtsfGRtRNGBgEYi5uRAhymi3iePw3e3FChheNZ",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Police Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Frankenstein Bolts"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmX7Ao16FYzXrSrFfbnEZgbRBivDG7YDf5qp9N9EKeuBAP",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_0803_b199966d8886cdce.png"
+}

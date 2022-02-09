@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://Qmd1Tzbgv6ZuyKDDy6ux9dC65eNrxXXpLUh7MUAHMXd3nc",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Domestic Duck"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Shades"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Horns"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Spiked Choker"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "1.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmNzvjgwwEPvj1q9Ka7zK9Domw2CCBvncKnUf5w8NmGx9Z",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_0278_b83436cdc7c1c9c9.png"
+}

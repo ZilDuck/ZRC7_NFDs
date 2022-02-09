@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmdGUN9R4pt3Vso7ERzt2fTXbk63VWC36WQ7tK2WyS3zhS",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bandana"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Pepe Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmSbj4u4AxJCkDmFCsa1PaRT2rowH1pyzjXc6J9yUifCwk",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3526_b12666cdccc7989c.png"
+}

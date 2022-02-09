@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmfBv2myAXzdTHGea5G6ZYosNLKEUTxgQ751LMCi488p1X",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Moustache Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Durag"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Yellow Hoodie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmS3QSUWGzfT973pxa2sM4rvzUCgoU7xfxBzm6SBm9XEDH",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1253_b339c3cdccc6cc0c.png"
+}

@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmY51YwkUtjXEv8yu31gWbEQjUAsAqg11EfMTvXnSV3DyU",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Dumb Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Yellow Hardhat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Flower Lei"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmNjb7SvfADTSvqHQyXezDbfWZJDmS4wtYyCUraKwDxHM7",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_0480_b198c66d8e87c92e.png"
+}

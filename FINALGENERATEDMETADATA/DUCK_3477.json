@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmWaUK1WiEiS6YVMotBM5qcK5LY7dh7CRM6FQfuPwK77SZ",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Male Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Daffy Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Eyepatch"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Egg"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Spiked Choker"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmRF6ZKfoCq2sKFhyGXxR17NMLeX1hwxWn8F93vLaf7Vb6",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3477_ce663399646c9939.png"
+}

@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://Qmd3W9op1wRtZzi4M9KVEqVPfAamTs9tYbcQEZvWKmf2s5",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Braces Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Tired Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Durag"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Beige Deezys"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.67%"
+    }
+  ],
+  "transparent": "ipfs://QmYjro81UiWwF26ycuGWYharm2dWyGR1zPg2NEE1HPfZUX",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1572_b39b864dcc864c6e.png"
+}

@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmYNFeLPNYYqFDfEVbGg7WUyivTowa4yHVwdn5ARzFmxxu",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Goldeneye"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Tired Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Yellow Hardhat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Striped Hoodie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://Qmb56D7jj596hWnQohHKex1AuJCWndtNAsB9kanaWgzjFK",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1934_b3988e65ce86c939.png"
+}

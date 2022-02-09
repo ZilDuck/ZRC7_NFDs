@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmRkwtdtYSc4XJTtWFZzBx4cLSS4fSDsazzoy6d8Cmxvjg",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Goldeneye"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Purple Camo"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmVR6BrriCC7CTnfj8piTgTL3Xf2HSFr5Yciyj1ZwozBuy",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1684_b398966ccc86cd66.png"
+}

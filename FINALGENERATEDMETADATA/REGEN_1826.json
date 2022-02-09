@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmccfrESoPbtpsy4SKNnNfNBehgE5HTUDogW8qcYpXAiuR",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Mandarin"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Hypnotized Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Sombrero"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Camo Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "10.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmYQd6dCMqynGjD9gJFEFsqJykRqumgf4gu24YYWLrSRZr",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1826_b03a9e4d339b6466.png"
+}

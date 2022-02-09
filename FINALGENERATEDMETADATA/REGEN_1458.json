@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmUmmQ47fM7yfJsza738Vcu8eLvcMu18aHV3oFYGwpgpy4",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Pochard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Dumb Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Durag"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Flower Lei"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmXGFQbBLmNKrwzqsuxQhpSUkR6aBa2T76BtK1HZpE6nwy",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1458_b1b3c64dccc6cc2c.png"
+}

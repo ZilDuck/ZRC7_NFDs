@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmfAJivbd12b1VARf1mmfdpf3o1JS6UgZ4YRbxWAWA2ppJ",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Domestic Duck"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Headphones"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Gradient Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmdShLDaCbMP3qoVRbrapAr69SyuBw6SNi8WCkGsywr4dL",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1096_b398c6c963cc9936.png"
+}

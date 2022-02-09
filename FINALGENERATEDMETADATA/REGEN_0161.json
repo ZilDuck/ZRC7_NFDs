@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmdwTcnJxeY7ahf1GztPCa7SLX2mazhS6YT1UDfXMdLodW",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Pochard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Lipstick Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Bulging Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Durag"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Purple Camo"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmczwYpPbp45dMtQVaJSia1MBPg9iip6p3p1doc4Sm522A",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_0161_b333c6c9ce84c966.png"
+}

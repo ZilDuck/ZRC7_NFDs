@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmS6Eq1RZ6RNWZaV15QvcbM2PXDeK9JQpTcxV2tihtUasd",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Male Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Groucho"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Axe"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Spiked Choker"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "1.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmdwFhcv7MQeSes67kFwyGTpSd9rg8X1J3TcqHu6HJuEUa",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1181_b132c6cdcdc7cc0c.png"
+}

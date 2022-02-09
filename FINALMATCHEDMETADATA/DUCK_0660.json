@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://Qmdst3vGKDu9QE5eHeGVtoZmYk73qs49Rovg35RJQgmNDS",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Domestic"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Pink Glasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Headphones"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Camo Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmZ5kCN6meZUT2CK2uh6P9YiwBhatkft9dkJjRw5qu2Kd6",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1762_b319cecd64cc9932.png"
+}

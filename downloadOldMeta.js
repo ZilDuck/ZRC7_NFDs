@@ -2,10 +2,13 @@ const fs = require('fs');
 const client = require('https');
 
 let currentDucks = []
-fs.readFile('./data.json', 'utf8',  (err, data) => {
+
+fs.readFile('./regen.json', 'utf8',  (err, data) => {
+    
     if (err) {
         console.log(`Error reading file from disk: ${err}`);
     } else {
+        console.log(data)
         currentDucks = JSON.parse(data);
         downloadDucks(currentDucks)
     }
@@ -13,9 +16,9 @@ fs.readFile('./data.json', 'utf8',  (err, data) => {
 
 async function downloadDucks (currentDucks) {
     for (let i in currentDucks) {
-        let newLink = currentDucks[i].metadata
-        console.log(`${i} - Downloading ${newLink}`)
-        await downloadImage(newLink, `./metadata/DUCK_${String(i).padStart(4, '0')}.json`)
+            let newLink = currentDucks[i].metadata
+            console.log(`${i} - Downloading ${newLink}`)
+            await downloadImage(newLink, `./metadata/REGEN_${String(i).padStart(4, '0')}.json`)
     }
 }
 
@@ -26,7 +29,7 @@ async function wait(ms) {
 async function downloadImage(url, filepath) {
     await wait(100)
     
-    url = url.replace('gateway.pinata.cloud', 'gateway.ipfs.io')
+    // url = url.replace('gateway.pinata.cloud', 'gateway.ipfs.io')
     console.log(url)
     return new Promise((resolve, reject) => {
         client.get(url, async(res) => {
@@ -37,9 +40,9 @@ async function downloadImage(url, filepath) {
             } else {
                 // Consume response data to free up memory
                 res.resume();
-                reject(new Error(`Request Failed With a Status Code: ${res.statusCode}`));
+                console.log(`Request Failed With a Status Code: ${res.statusCode}`)
                 await wait(2500)
-                url = url.replace('https://gateway.pinata.cloud/', 'https://ipfs.io/')
+                // url = url.replace('https://gateway.pinata.cloud/', 'https://ipfs.io/')
                 downloadImage(url, filepath)
             }
         });

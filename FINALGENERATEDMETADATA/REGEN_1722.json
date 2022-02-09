@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmZkAP8hs76njffCr6vE4P1boFNFDGDeM2pg3D1FzQUtQU",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Merganser"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Cracked Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Smug Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Purple Camo"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmWUZSbcpKBNrLmy8ydoeNoKxdr9NdN1seb7NwbNhwjy6z",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1722_b1398e6c988bcd66.png"
+}

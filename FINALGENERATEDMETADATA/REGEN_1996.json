@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmcxiJH5iBt8xcKECh9HAWem9QKURhKt3p2jG5ena5t2bE",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Female Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Surprised Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bunny Ears"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Tie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "1.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmTeRsL8A3QNQ22M1gEcPWv4eQ2YbHpHC5fdT92Zug8nqy",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1996_b1988669c3c7c96e.png"
+}

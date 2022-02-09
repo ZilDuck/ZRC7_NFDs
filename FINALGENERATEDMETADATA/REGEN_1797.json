@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmbSMReDzcsjR3soGNeEVyWWqEy6dcFPwWLftLaBcSwj19",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Hulk"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Normal Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Top Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Spiked Choker"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://Qma48wetRL2VXB7jYeLWjNa2ZUBht7wat5dgC3LrL2Vev7",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1797_b336c664c999c99c.png"
+}

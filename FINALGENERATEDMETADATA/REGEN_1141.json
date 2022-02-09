@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmcwpFNzGQu2FUCpbhNgN137GxtM9Fjr7TZRjrE25GzUh9",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Seaduck"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Cigarette Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Camo Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmQGZR5tHshD1orpyZCfNr5DxT6aoMKPaStr9MqAvC3r55",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1141_b39e9661cc93694c.png"
+}

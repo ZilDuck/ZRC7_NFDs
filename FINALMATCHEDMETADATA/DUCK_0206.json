@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmciqxfiJqdV29cPcEkw1rorP4UQBT2eTnPVjPt9zuLrad",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Domestic"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Cracked Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Surprised Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Gradient Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmNrYyS6gJ4EsAsLc2Gx4gEScJ3ba4CiGFknaRcYn6yL8i",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1274_b23ccc9933cdcc26.png"
+}

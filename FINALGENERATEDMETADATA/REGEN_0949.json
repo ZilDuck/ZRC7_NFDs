@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmeYjGeN1fXkt1kcc65ppZM1hAxaPSBPaQGHmpesrgAR4f",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Merganser"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Drooling Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Scuba Mask"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "DCDC Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmUDRmeMF1PMR2ZGeZUkAQEugKfPHk8Cs8uoLgciPheiSZ",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_0949_b318ce6c33c9cd32.png"
+}

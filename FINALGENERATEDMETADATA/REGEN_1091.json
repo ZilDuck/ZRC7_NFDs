@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmZSKq5EVU1iNpVQG1wm4SZdvMWVNoSTNrAYXWXw5nEeRk",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Mandarin"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Green Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Smug Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Fez"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "DCDC Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmaA9tPYCHZHTTjkK3bcs6hAVzRKvjHbe8AXPBV9SzH7W4",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1091_b19ace6c3199cd32.png"
+}

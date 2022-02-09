@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmTPQbHcnH62GbKgQ2vCJ1AkNN1QARTDnR7cWG1xSqGzcu",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Mandarin"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Tongue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Shades"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Brain"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Flower Lei"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmZDGS546ekrP8jLS9JzAm4yAY9RmR8k53DCcGEFhW5rm1",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3318_b59892cccb3366c6.png"
+}

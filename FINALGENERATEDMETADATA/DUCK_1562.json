@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmeBK1mguPcZshrr1Z1LxmSGpSPXPcA2dgLzsioNBrk3ix",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Male Mallard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Normal Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Floatie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Lime"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmeBPsgcRoPMzmmWkQxMyQFApsiTFuP465bPaGzob2UdGJ",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_1562_b399836cce984c3e.png"
+}

@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmQhpaUj7ceS3nQqH1zDPogGzyDVBEHg2wbzBQmzAzzw8z",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Eider"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Open Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Scuba Mask"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Top Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Footie Jersey"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmctCy8Y2t4BKiQtKTu5yGWAaoLkb88Nv8LpF8qeQ8e8Kb",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1787_b638a664c9c6cd99.png"
+}

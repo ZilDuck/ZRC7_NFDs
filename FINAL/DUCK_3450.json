@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmdCAsTawkwMVS5cAvycz1VTLLNwY4N5FApvQ9eHWkvQ4q",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Goldeneye"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Groucho"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bandana"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Frankenstein Bolts"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmSmqRaqoUJF4ZLTV7BPcrH5yVkzK1jzn3NGnmLMPXuiEs",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1275_b31891cdcec68d66.png"
+}

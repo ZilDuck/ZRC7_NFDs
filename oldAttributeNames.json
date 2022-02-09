@@ -1,7 +1,5 @@
 {
   "bases": [
-    { "value": "_", "label": "Select Base" },
-    { "value": "?????", "label": "?????" },
     { "value": "1-DOMESTIC BASE", "label": "Domestic Duck" },
     { "value": "1-EIDER BASE", "label": "Eider" },
     { "value": "1-GOLDENEYE BASE", "label": "Goldeneye" },
@@ -28,8 +26,6 @@
     { "value": "2-SEADUCK SHINY", "label": "Shiny Seaduck" }
   ],
   "beaks": [
-    { "value": "_", "label": "Select Beak" },
-    { "value": "?????", "label": "?????" },
     { "value": "2-BEAK TONGUE", "label": "Tongue Beak" },
     { "value": "3-CIGARETTE BEAK", "label": "Cigarette Beak" },
     { "value": "2-CRACKED BEAK 1", "label": "Cracked Beak" },
@@ -39,7 +35,6 @@
     { "value": "2-BRACES BEAK", "label": "Braces Beak" },
     { "value": "2-BROKENSMILE BEAK_vectorized", "label": "Broken Smile" },
     { "value": "4-DAFFY BEAK", "label": "Daffy Beak" },
-    { "value": "3-GOLDSMILE BEAK", "label": "Golden Smile Beak" },
     { "value": "3-LGBTQ BEAK", "label": "Rainbow Beak" },
     { "value": "2-LIPSTICK BEAK", "label": "Lipstick Beak" },
     { "value": "3-MOUSTACHE BEAK", "label": "Moustache Beak" },
@@ -59,8 +54,6 @@
     { "value": "3-SAX BEAK", "label": "Sax Beak" }
   ],
   "eyes": [
-    { "value": "_", "label": "Select Eyes" },
-    { "value": "?????", "label": "?????" },
     { "value": "1-ANGRY EYES", "label": "Angry Eyes" },
     { "value": "1-BOOBA", "label": "Surprised Eyes" },
     { "value": "1-BULGING EYES", "label": "Bulging Eyes" },
@@ -87,8 +80,6 @@
     { "value": "2-TIRED EYES", "label": "Tired Eyes" }
   ],
   "hats": [
-    { "value": "_", "label": "Select Hat" },
-    { "value": "?????", "label": "?????" },
     { "value": "1-BANDANA", "label": "Bandana" },
     { "value": "1-BASEBALL CAP", "label": "Baseball Cap" },
     { "value": "1-DURAG", "label": "Durag" },
@@ -114,8 +105,6 @@
     { "value": "4-AXE", "label": "Axe" }
   ],
   "outfit": [
-    { "value": "_", "label": "Select Outfit" },
-    { "value": "?????", "label": "?????" },
     { "value": "1-ACDC SHIRT", "label": "DCDC Shirt" },
     { "value": "1-CAMO SHIRT", "label": "Camo Shirt" },
     { "value": "1-HAWAIIAN SHIRT", "label": "Hawaiian Shirt" },

@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmREXYJu8W4y4MkF85CziiYqguWeBnBB6K1M9MagqBuhSs",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Pochard"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Braces Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Bucket Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Camo Shirt"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "8.57%"
+    }
+  ],
+  "transparent": "ipfs://QmTJZjVgiWbbFfcTgmAF5SzABzkZ8g5djDLYyFdtUT95pn",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_3058_e69831cdce964966.png"
+}

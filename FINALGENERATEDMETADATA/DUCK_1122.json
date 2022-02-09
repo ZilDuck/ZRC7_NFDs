@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmeyiP14gEyAeEK9ujPsQN7xZ5VcbQDmpjzFZiAemYNnVv",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Shiny Eider"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Blue Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Tired Eyes"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Hot Dog"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Zebra Deezys"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Beige"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "0.91%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "3.13%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "1.00%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.67%"
+    }
+  ],
+  "transparent": "ipfs://QmQfB1SL5hb1gc5N1wWFUWg8bFfZwp6gXuPvoEPahQ9AaU",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/DUCK_1122_b138ce7934ccc966.png"
+}

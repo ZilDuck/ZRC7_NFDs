@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmUjGX169uKs5rgQ5FoVjrqY9UPtuXixia3VBamMGPoHQw",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Seaduck"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Halo"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Cape"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "2.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "1.67%"
+    }
+  ],
+  "transparent": "ipfs://QmRpRp2Tz2HPanEbs1HooVTWh6mxTKLcN4CLGMyYf1te4s",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_0778_e19c96314ece69b8.png"
+}

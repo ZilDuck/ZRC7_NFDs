@@ -1,0 +1,63 @@
+{
+  "resource": "ipfs://QmSLgXZEshG9Vwid7krAxMVrtLPQyHtDPcuLNUwzxZ1pZ5",
+  "resource_mimetype": "image/png",
+  "attributes": [
+    {
+      "display_type": "string",
+      "trait_type": "Base",
+      "value": "Mandarin"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak",
+      "value": "Orange Beak"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes",
+      "value": "Censorbar"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat",
+      "value": "Propeller Hat"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit",
+      "value": "Floatie"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Background",
+      "value": "Teal"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Base Rarity",
+      "value": "9.22%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Beak Rarity",
+      "value": "7.50%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Eyes Rarity",
+      "value": "1.25%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Hat Rarity",
+      "value": "2.78%"
+    },
+    {
+      "display_type": "string",
+      "trait_type": "Outfit Rarity",
+      "value": "2.78%"
+    }
+  ],
+  "transparent": "ipfs://QmV3JNeXSs4zqAhbCGmCUT7JnHgY4ddB4p7j5FZjR2DDCe",
+  "quick_resource": "https://d22rrd5cdtalai.cloudfront.net/REGEN_1968_b13192cec6cccd36.png"
+}

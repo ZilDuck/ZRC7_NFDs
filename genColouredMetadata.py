@@ -1,5 +1,9 @@
 import json
+from os import write
 import sys
+import glob
+import shutil
+from textwrap import indent
 
 oldAttrFile = open('./oldAttributeNames.json')
 oldAttributes = json.load(oldAttrFile)
@@ -9,13 +13,23 @@ coloursFile = open('./colours.json')
 coloursPerDuck = json.load(coloursFile)
 coloursFile.close()
 
-arweaveFile = open('./arweave.json')
-arweaveImages = json.load(arweaveFile)
-arweaveFile.close()
+IPFSFile = open('./newimagehashes.json')
+IPFS = json.load(IPFSFile)
+IPFSFile.close()
+
+compressedHashesFile = open('./compressedHashes.json')
+compressedHashes = json.load(compressedHashesFile)  
+compressedHashesFile.close()
 
 transparentImagesFile = open('./data.json')
 transparentImages = json.load(transparentImagesFile)
 transparentImagesFile.close()
+
+currentducksFile = open('./currentducks2.json')
+currentducks = json.load(currentducksFile)
+currentducksFile.close()
+
+missingArweave = []
 
 def readOldMetadata (id):
     filename = "./metadata/DUCK_" + str("{0:0=4d}".format(id)) + ".json"
@@ -42,43 +56,65 @@ def getOldColour (id):
     print("Failed getting background colour for " + str(id))
     sys.exit()
 
-def getArweaveImage (id):
-    for duck in arweaveImages:
-        if duck["name"] == "DUCK_" + str("{0:0=4d}".format(id)) + ".png":
-            return duck["dataTxId"]
+def getIPFSImage (id):
+    for duck in IPFS:
+        if duck["id"] == "DUCK_" + str("{0:0=4d}".format(id)):
+            return duck["hash"]
     
     print("Failed getting arweave url for " + str(id))
     sys.exit()
+    
+def getName (id):
+    for duck in currentducks: 
+        print(duck)
+        if duck['id'] == str(id):
+            return duck["name"]
+    print("Failed getting name for " + str(id))
+    sys.exit()
 
+def getCompressedHash (id):
+    id = "DUCK_" + str("{0:0=4d}".format(id))
+    for duck in compressedHashes["ducks"]:
+        if duck["id"] == id:
+            return duck["hex"]
+    
+    print("Failed getting hash " + str(id))
+    sys.exit()
 
 
 def genNewMeta(id):
     oldAttributes = readOldMetadata(id)
+
 
     base = getNewAttributeName("bases", oldAttributes["duck_base_name"])
     beak = getNewAttributeName("beaks", oldAttributes["duck_beak_name"])
     eyes = getNewAttributeName("eyes", oldAttributes["duck_eyes_name"])
     hat = getNewAttributeName("hats", oldAttributes["duck_hats_name"])
     outfit = getNewAttributeName("outfit", oldAttributes["duck_outfit_name"])
+    baseRarity = oldAttributes["duck_base_occurrence_chance"]
+    beakRarity = oldAttributes["duck_beak_occurrence_chance"]
+    eyesRarity = oldAttributes["duck_eyes_occurrence_chance"]
+    hatsRarity = oldAttributes["duck_hats_occurrence_chance"]
+    outfitRarity = oldAttributes["duck_outfit_occurrence_chance"]
 
     colour = getOldColour(id)
 
-    arweaveHash = getArweaveImage(id)
+    ipfsHash = getIPFSImage(id)
 
     pinata = transparentImages[str(id)]["uri"]
     ipfshash = pinata.split("https://gateway.pinata.cloud/ipfs/")[1]
 
-  
-    filename = "./generatedMetadata/DUCK_" + str("{0:0=4d}".format(id)) + ".json"
+    compressedHash = getCompressedHash(id)
+    s3url =  "https://d22rrd5cdtalai.cloudfront.net/DUCK_" + str("{0:0=4d}".format(id)) + "_" + compressedHash + ".png"
+    print(s3url)
+    
+    filename = "./FINALGENERATEDMETADATA/DUCK_" + str("{0:0=4d}".format(id)) + ".json"
+     
 
     with open(filename, "w") as write_file:
         result = {        
-            "name": "Cloud Quackers",
-            "description": "Non-Fungible Ducks",
-            "resource": "https://arweave.net/" + arweaveHash, #arweave coloured
+            "resource": ipfsHash, #arweave coloured
             "resource_mimetype": "image/png",
-            "external_url": "https://duck.community",
-            "external_description": "Non-Fungible Ducks are the first randomised, hard-cap project on the Zilliqa blockchain.",
             "attributes": 
             [ 
                 {
@@ -87,10 +123,11 @@ def genNewMeta(id):
                     "value": base
                 }, 
                 {
-                    "display_type" : "string",
-                    "trait_type": "Beak", 
-                    "value": beak
-                }, 
+                    "display_type": "string",
+                    "trait_type": "Beak",
+                    "value":  beak
+                },
+            
                 {
                     "display_type" : "string",
                     "trait_type": "Eyes", 
@@ -114,40 +151,51 @@ def genNewMeta(id):
                 {
                     "display_type" : "string",
                     "trait_type": "Base Rarity", 
-                    "value": oldAttributes["duck_base_occurrence_chance"]
+                    "value": baseRarity
                 }, 
                 {
                     "display_type" : "string",
                     "trait_type": "Beak Rarity", 
-                    "value": oldAttributes["duck_beak_occurrence_chance"]
+                    "value": beakRarity
                 }, 
                 {
                     "display_type" : "string",
                     "trait_type": "Eyes Rarity", 
-                    "value": oldAttributes["duck_eyes_occurrence_chance"]
+                    "value": eyesRarity
                 },
                 {
                     "display_type" : "string",
                     "trait_type": "Hat Rarity", 
-                    "value": oldAttributes["duck_hats_occurrence_chance"]
+                    "value": hatsRarity
                 },
                 {
                     "display_type" : "string",
                     "trait_type": "Outfit Rarity", 
-                    "value": oldAttributes["duck_outfit_occurrence_chance"]
-                },
-
-                
+                    "value": outfitRarity
+                }
             ],
             "transparent": "ipfs://" + ipfshash,
-            "quick_resource": "https://nfds.s3.eu-west-2.amazonaws.com/DUCK_" + str("{0:0=4d}".format(id)) + ".png"
+            "quick_resource": s3url
         }
-        json.dump(result, write_file)
-
+        print(result)
+        json.dump(result, write_file, indent=2)
+        
     return
 
 
 
-for id in range(1, 1 + 2):
-    print("Gen duck " + str(id))
+
+id = 0
+#genNewMeta(3955)
+for filename in glob.glob('./generated/generated/DUCK_*.png'):
+    id = id + 1
+    print(id)
     genNewMeta(id)
+        
+
+
+# ================================================================
+
+for missing in missingArweave:
+    print(missing)
+
